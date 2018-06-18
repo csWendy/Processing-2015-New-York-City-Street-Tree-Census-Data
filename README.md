@@ -1,16 +1,5 @@
 # Processing-2015-New-York-City-Street-Tree-Census-Data
 
-/*******************************************************************************
-  Title          : README
-  Author         : Xiaoning Wang
-  Created on     : March 29, 2018
-  Instructor     : Stewart Weiss
-  Course         : CSCI 33500
-  Assignment     : Project 2
-  Description    : The general information about prject2. 
-*******************************************************************************/
-
-
 Project2 version 1.0  3/29/2018 @ Hunter college
 
 GENERAL INFORMATION:
