@@ -18,10 +18,9 @@ This project reads the data from that data set and save the data in an Avl tree.
 ----------------------------------------------------------------------------------------------------------------------
 
 Optimization that have been made. 
-----------------------------------------------------------------------------------------------------------------------
+
 1.The string parser method in Tree class was improved from project1. 
 2.AVLtree class was first written by refering the information from lecture and text book. Then was revised by testing 
   with Tree class together. 
 3.I didn't know how to choose the containers of borough in the TreeCollection class at first. At last I chose to use map.
-  I want to know other optimized options.     
-----------------------------------------------------------------------------------------------------------------------
+
